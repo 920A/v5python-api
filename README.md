@@ -1,11 +1,11 @@
 ### V5 Python API
 <hr>
-Use one of the provided libraries to give your external code editor (anything besides Vexcode) syntax highlighting and autocompletion for the Vex Python API.
+Use one of the provided libraries to give your external code editor syntax highlighting and autocompletion for the Vex Python API.
 <hr>
 
 **Usage:**
 
-1) Include `vex.py` and `timer.py` in your program directory
+1) Include `vex.py` and `timer.py` in your program directory ([download here](https://github.com/HunterDorf/v5python-api/tree/main/RobotMesh/Autocomplete%20Optimized/Minified))
 2) Add the following code to your main project file:
 ```python
 from vex import *
