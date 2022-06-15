@@ -12,3 +12,8 @@ from vex import *
 import timer #Optional
 ```
 3) The IDE you are using should now provide you with code completions for Vex Python
+<hr>
+
+**Note:**
+
+This reference library was created against the RobotMesh documentation of it. Because Vexcode slighlty differs, there may be a few class/methods/variables missing. If there is, please open an "issue" so I can add it to the library.
