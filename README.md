@@ -16,4 +16,4 @@ import timer #Optional
 
 **Note:**
 
-This reference library was created against the RobotMesh documentation of it. Because Vexcode slighlty differs, there may be a few class/methods/variables missing. If there is, please open an "issue" so I can add it to the library.
+This reference library was created against the RobotMesh documentation of it. Because Vexcode slightly differs, there may be a few class/methods/variables missing. If there is, please open an "issue" so I can add it to the library.
