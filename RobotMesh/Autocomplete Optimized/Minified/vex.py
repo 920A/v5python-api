@@ -1,6 +1,6 @@
-_C=False
-_B=True
 _A=None
+_B=True
+_C=False
 class Enum:0
 class PercentUnits(Enum):PCT=0
 class AnalogUnits(Enum):PCT=PercentUnits.PCT;RANGE_8BIT=1;RANGE_10BIT=2;RANGE_12BIT=3;MV=4
